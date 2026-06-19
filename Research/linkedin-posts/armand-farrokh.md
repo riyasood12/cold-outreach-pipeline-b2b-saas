@@ -9,7 +9,7 @@ Summary: Introduces the 3x3 Email Rule : no longer than 3 bodies of text, 3 line
 
 Key Takeaway: Cold email brevity is a structural discipline in which every section has a job, and the CTA should invite interest, not demand a meeting.
 
-Category: Cold Email, Copywriting YouTube
+Category: Cold Email Copywriting 
 
 ---
 
@@ -22,7 +22,7 @@ Summary: Shows how to use 4 company-level signals (funding round, employee growt
 
 Key Takeaway: Triggers only stand out when attached to a problem, everyone sends "congrats on the round," so yours needs to say what that funding means for the prospect's actual challenges.
 
-Category: Cold Email Personalization / Trigger-Based Outreach YouTube
+Category: Cold Email Personalization / Trigger-Based Outreach 
 
 ---
 
@@ -35,7 +35,7 @@ Summary: Covers three mechanical adjustments that fix cold call tone: speak unco
 
 Key Takeaway: Tone mechanics not scripts , separate cold calls that get heard from ones that get immediately hung up on.
 
-Category: Cold Call Execution / SDR Workflow BlitzMetrics
+Category: Cold Call Execution / SDR Workflow
 
 ---
 
@@ -48,7 +48,7 @@ Summary: Argues common openers ("how's your day going," "did I catch you at a ba
 
 Key Takeaway: The only thing that can be unique about your opener is the prospect themselves and everything else is noise.
 
-Category: Cold Call Openers / Prospecting Messaging Alexberman
+Category: Cold Call Openers / Prospecting Messaging 
 
 ---
 
@@ -61,7 +61,7 @@ Summary: Breaks down cold email preview text strategy,  the first 14 words must 
 
 Key Takeaway: Preview text is your real subject line if it opens with "Armand from Acme," it telegraphs "sales email" and kills the open before it starts.
 
-Category: Cold Email Copywriting / Outbound Messaging LinkedIn
+Category: Cold Email Copywriting / Outbound Messaging 
 
 ---
 

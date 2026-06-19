@@ -9,7 +9,7 @@ Summary: Introduces "boring subject lines" for achieving 40%+ open rates, avoid 
 
 Key Takeaway: Subject lines that replicate how the prospect talks internally outperform clever solution-centric ones because they don't read as sales emails before they're opened.
 
-Category: Cold Email Copywriting / Subject Line Strategy LinkedIn
+Category: Cold Email Copywriting / Subject Line Strategy 
 
 ## Post 2
 Date: August 28, 2023
@@ -20,7 +20,7 @@ Summary: A 14-point anti-pattern checklist for outbound motions: messaging writt
 
 Key Takeaway: Outbound fails at the system level, no single tactic fix compensates for an org that hasn't invested in data, tooling, rep enablement, and leader participation simultaneously.
 
-Category: SDR Workflow / Outbound Org Design QuickMail
+Category: SDR Workflow / Outbound Org Design 
 
 ## Post 3
 Date: December 21, 2023
@@ -31,7 +31,7 @@ Summary: An 8-point case study of how an AE landed 3 new opportunities in one da
 
 Key Takeaway: AE outbound success compounds from small disciplined choices — ICP narrowing, copy brevity, and SDR collaboration not any single tactic or template.
 
-Category: Cold Email / AE Self-Sourcing / Outbound Workflow SalesBread
+Category: Cold Email / AE Self-Sourcing / Outbound Workflow 
 
 ## Post 4
 Date: February 8, 2024
@@ -42,7 +42,7 @@ Summary: Tests AI-generated cold emails against real active prospects and shares
 
 Key Takeaway: AI output is a starting point, not a final draft or reps who treat it as a research and framing accelerant separate from those who automate their way to irrelevance.
 
-Category: Cold Email / AI in Outbound RocketReach
+Category: Cold Email / AI in Outbound 
 
 ## Post 5
 Date: October 12, 2023
@@ -53,7 +53,7 @@ Summary: Shares a signal-driven account research framework: Sales Navigator bool
 
 Key Takeaway: The best outbound starts before the first message — signal-driven account prioritisation converts meetings at dramatically higher rates than working a list from the top down.
 
-Category: Account Research / Prospecting Strategy / SDR Workflow 30mpc
+Category: Account Research / Prospecting Strategy / SDR Workflow 
 
 ## Cross-Cutting Themes
 

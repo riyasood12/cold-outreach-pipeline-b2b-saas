@@ -38,7 +38,7 @@ Two standalone articles (not LinkedIn posts) already summarized in `research/lin
 
 ## Author Credibility Notes
 
-Background details that informed expert selection but didn't fit `sources.md`'stable format — kept here as supporting evidence for "why these 10."
+Background details that informed expert selection but didn't fit `sources.md`'s table format - kept here as supporting evidence for "why these 10."
 
 **Florin Tatulea** — GTM Engineer in Residence at ZoomInfo; formerly Head of Sales Development at Common Room (4x'd ARR, 20x'd outbound pipeline); first sales hire at Loopio (65x revenue growth, 9-figure exit); 88K+ followers across LinkedIn/Substack/X.
 

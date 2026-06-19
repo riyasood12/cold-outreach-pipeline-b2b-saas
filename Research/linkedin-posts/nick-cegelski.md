@@ -9,7 +9,7 @@ Summary: A 5-point cold email checklist: forward the email to a friend (if they 
 
 Key Takeaway: Contact strategy — sequence structure, touch density, channel mix — is irrelevant if the messaging fails once it actually reaches the prospect.
 
-Category: Cold Email Copywriting / Deliverability LinkedInLinkedIn
+Category: Cold Email Copywriting / Deliverability 
 
 ## Post 2
 Date: April 13, 2023
@@ -20,7 +20,7 @@ Summary: Argues the first email is the powerhouse of the entire prospecting sequ
 
 Key Takeaway: Most reps over-engineer their cadence while under-building their first touch — fix the first email before optimizing anything downstream.
 
-Category: Outbound Sequence Design / Cold Email Copywriting LinkedIn
+Category: Outbound Sequence Design / Cold Email Copywriting 
 
 ## Post 3
 Date: April 17, 2023
@@ -31,7 +31,7 @@ Summary: Declares gimmicky breakup emails finished and gives a 5-part profession
 
 Key Takeaway: A well-crafted breakup email takes responsibility and leaves a door open; a badly written one damages the relationship and closes any future re-engagement.
 
-Category: Cold Email Sequencing / Outbound Workflow Audible
+Category: Cold Email Sequencing / Outbound Workflow 
 
 ## Post 4
 Date: ~Early 2023
@@ -42,7 +42,7 @@ Summary: Calls out "I was researching your company and was very impressed" as fa
 
 Key Takeaway: Generic admiration openers are as invisible as "I hope this email finds you well" — the only working personalization is something the prospect can verify is specifically about them.
 
-Category: Cold Email Personalization / Prospecting Messaging LinkedIn
+Category: Cold Email Personalization / Prospecting Messaging 
 
 ## Post 5
 Date: ~2024–2025 (exact date requires manual retrieval)
@@ -53,7 +53,7 @@ Summary: Describes using a physical gift in a bubble mailer as the most reliable
 
 Key Takeaway: When every digital channel is saturated and automated, a handwritten note in a bubble mailer earns disproportionate attention — effort and relevance still win, just via a different medium.
 
-Category: Outbound Strategy / Multi-Channel Prospecting LinkedIn
+Category: Outbound Strategy / Multi-Channel Prospecting 
 
 ## Cross-Cutting Themes
 
