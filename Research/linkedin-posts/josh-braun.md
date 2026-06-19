@@ -2,7 +2,7 @@
 
 ## Post 1
 
-Date: ~June 12, 2026 (6 days before compile date)
+Date: ~June 12, 2026 
 
 URL: https://www.linkedin.com/posts/josh-braun_one-of-the-most-useful-sales-lessons-doesn-activity-7470865129073520640-BsoU
 
@@ -69,4 +69,35 @@ Key Takeaway: Personal beats personalization; focus on common pain points.
 Category: Cold outreach
 
 ---
+
+## Cross-Cutting Themes
+
+### Theme 1: Curiosity Over Convincing
+Braun consistently frames cold outreach as a curiosity-building exercise, not a persuasion task. Using neutral questions and information gaps, sellers invite prospects to discover their own needs rather than being pushed with pitches.
+
+### Theme 2: Relevance and Specificity Beat Generic Personalization
+Across cold email and calls, Braun emphasizes specificity (real observations, triggers, shared problems) over superficial personalization (names, titles). Prospects respond to messages that feel relevant to their world, not just personalized.
+
+### Theme 3: Process and Verification Before Pitching
+Braun highlights operational basics: confirm you’re talking to the right person, validate ICP fit, and ensure relevance before launching into a pitch. Outreach failures often stem from process gaps, not messaging flaws.
+
+---
+
+## Metadata
+
+```json
+{
+  "research_subject": "Josh Braun cold outreach and outbound strategy",
+  "author_profile": "https://www.linkedin.com/in/josh-braun",
+  "post_count": 5,
+  "date_range": "January 18, 2026 – June 12, 2026",
+  "categories_covered": [
+    "Messaging psychology",
+    "Sales conversations",
+    "Cold email",
+    "Prospecting",
+    "Cold outreach"
+  ]
+}
+```
 

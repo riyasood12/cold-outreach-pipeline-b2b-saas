@@ -68,20 +68,26 @@ Category: Cold Email Copywriting / Outbound Messaging LinkedIn
 ## Cross-Cutting Themes
 
 Specificity over volume , every post punishes generic content and rewards one specific, researched detail about the individual prospect
+
 Friction reduction as strategy from interest-based CTAs to low-pressure call tone, reducing the perceived cost of engagement consistently outperforms increased persuasion
+
 Structure first, then personalization is the 3x3 rule, Context First Opener, and trigger frameworks all share the same logic: lock in the structure, then slot personalization in
 
 ---
 
 Metadata
+
 research_subject: Armand Farrokh
+
 author_profile: https://www.linkedin.com/in/armand-farrokh
+
 post_count: 5
+
 date_range: June 2021 – April 2023
+
 categories_covered:
   - Cold Email Copywriting
   - Cold Email Personalization / Trigger-Based Outreach
   - Cold Call Execution / SDR Workflow
   - Cold Call Openers / Prospecting Messaging
   - Outbound Messaging / Preview Text Strategy
-compiled_on: 2026-06-18

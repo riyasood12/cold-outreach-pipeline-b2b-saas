@@ -58,19 +58,25 @@ Category: Outbound Strategy / Multi-Channel Prospecting LinkedIn
 ## Cross-Cutting Themes
 
 Messaging quality over contact volume — every post treats the underlying message as the rate-limiting variable; sequence structure, mailers, and breakup emails all fail if the copy doesn't earn the reader's time
+
 Specificity as the only real differentiator — fake personalization, irrelevant social proof, and ChatGPT-generated pain points are consistently named as the fastest ways to blend in; real research is the only escape
+
 Deliberate effort as a competitive moat — Post 5 makes this explicit: most reps won't spend 30 minutes researching a prospect or writing a card, which is exactly why doing it works
 
 
 ## Metadata
 research_subject: Nick Cegelski
+
+
 author_profile: https://www.linkedin.com/in/nick-cegelski
+
 post_count: 5
+
 date_range: Early 2023 – 2025
+
 categories_covered:
   - Cold Email Copywriting / Deliverability
   - Outbound Sequence Design
   - Cold Email Sequencing / Outbound Workflow
   - Cold Email Personalization / Prospecting Messaging
   - Outbound Strategy / Multi-Channel Prospecting
-compiled_on: 2026-06-18

@@ -67,19 +67,24 @@ Manual retrieval needed: search recent-activity feed for the "research is about 
 ## Cross-Cutting Themes
 
 Human signal in an AI-saturated inbox — Posts 2, 4, and 5 all converge on the same 2025 thesis: AI has made generic outbound cheap and ubiquitous, which means genuine relevance is now the actual competitive moat, not tooling or volume
+
 Trigger-first, then message — Posts 1, 3, and 5 all share the same underlying principle: identify a specific, named reason to reach out before choosing the channel or writing the message
+
 Format innovation as a short-term moat — LinkedIn voice notes, video messages, and frictionless CTAs share the pattern of using a channel the majority of reps haven't yet adopted — Morgan consistently spots and documents these windows early, from active use
 
 
 ## Metadata
 research_subject: Morgan J Ingram
+
 author_profile: https://www.linkedin.com/in/morganjingramamp
+
 post_count: 5
+
 date_range: November 2022 – 2025
+
 categories_covered:
   - LinkedIn Outreach / Prospecting Messaging
   - Cold Email / AI in Outbound / SDR Workflow
   - LinkedIn Outreach / Video Prospecting
   - Outbound Strategy / AI in Outbound / Cold Email
   - SDR Workflow / AI in Outbound / Outbound Strategy
-compiled_on: 2026-06-18

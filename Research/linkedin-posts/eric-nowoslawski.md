@@ -1,7 +1,7 @@
 # Eric Nowoslawski
 
 ## Post 1
-Date: ~June 16, 2026 (2 days before compile)
+Date: ~June 16, 2026 
 
 URL: https://www.linkedin.com/posts/outboundphd_there-is-no-such-thing-as-a-b2b-saas-filter-activity-7462581598727708673-r1xf
 
@@ -14,7 +14,8 @@ Category: Prospecting
 ---
 
 ## Post 2
-Date: ~May 18, 2026 (1 month before compile)
+
+Date: ~May 18, 2026
 
 URL: https://www.linkedin.com/posts/outboundphd_heres-something-nobody-talks-about-in-cold-activity-7440385354169204736-4w5f
 
@@ -27,7 +28,7 @@ Category: Deliverability
 ---
 
 ## Post 3
-Date: ~May 18, 2026 (1 month before compile)
+Date: ~May 18, 2026 
 
 URL: https://www.linkedin.com/posts/outboundphd_we-automatically-pulled-35-sales-signals-activity-7457832794098978816-4KG_
 
@@ -40,20 +41,20 @@ Category: Outbound Strategy
 ---
 
 ## Post 4
-Date: ~April 18, 2026 (2 months before compile)
+Date: ~April 18, 2026 
 
 URL: https://www.linkedin.com/posts/outboundphd_i-think-most-people-are-wasting-their-linkedin-activity-7424093019735412736-4B8m
 
 Summary: LinkedIn shouldn't mirror email sequencing—use limited daily connection requests on high-intent targets: ICP engaging with case-study customers (name-drop in social proof), website de-anonymization visitors, and ICP engaging with competitor or topic posts.
 
-Key Takeaway: Treat LinkedIn as a scarce, high-reply channel for your hottest leads—not a follow-up touch after email.
+Key Takeaway: Treat LinkedIn as a scarce, high-reply channel for your hottest leads-not a follow-up touch after email.
 
 Category: LinkedIn Outreach
 
 ---
 
 ## Post 5
-Date: ~February 18, 2026 (4 months before compile)
+Date: ~February 18, 2026
 
 URL: https://www.linkedin.com/posts/outboundphd_this-is-the-type-of-campaign-i-would-suggest-activity-7419050979062358016-mgZ2
 
@@ -66,8 +67,11 @@ Category: Cold Email
 ---
 
 ## Cross-Cutting Themes
+
 List quality beats filter convenience — Broad pulls plus written ICP definitions and qualification outperform naive industry/SaaS filters.
+
 Engagement drives deliverability — Reply rates and offer strength matter as much as warmup, volume caps, and domain setup.
+
 Match channel to intent and scale — Email scales; LinkedIn is for high-intent, limited-volume plays with real context.
 
 ---
@@ -83,4 +87,3 @@ categories_covered:
   - Outbound Strategy
   - LinkedIn Outreach
   - Cold Email
-compiled_on: 2026-06-18

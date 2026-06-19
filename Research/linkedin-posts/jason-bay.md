@@ -58,19 +58,25 @@ Category: Account Research / Prospecting Strategy / SDR Workflow 30mpc
 ## Cross-Cutting Themes
 
 System over tactic — every post frames outbound as a compounding infrastructure (ICP + data + messaging + enablement + leader participation) — individual tactics fail without the surrounding system
+
 Prospect-first language across every channel - subject lines, email openers, and call hooks all share one principle: lead with what you know about them, not who you are or what you sell
+
 Quality contact strategy beats volume - the 12-15 touch cadence, signal-driven account research, and quality-first cold calling framework all share the same belief: fewer, better-researched prospects outperform spray-and-pray at every conversion stage
 
 
 ## Metadata
+
 research_subject: Jason Bay
+
 author_profile: https://www.linkedin.com/in/jasondbay
+
 post_count: 5
+
 date_range: August 2023 – February 2024
+
 categories_covered:
   - Cold Email Copywriting / Subject Line Strategy
   - SDR Workflow / Outbound Org Design
   - Cold Email / AE Self-Sourcing / Outbound Workflow
   - Cold Email / AI in Outbound
   - Account Research / Prospecting Strategy
-compiled_on: 2026-06-18
