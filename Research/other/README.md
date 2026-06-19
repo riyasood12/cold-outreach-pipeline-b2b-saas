@@ -41,7 +41,7 @@ Two standalone articles (not LinkedIn posts) already summarized in `research/lin
 Background details that informed expert selection but didn't fit `sources.md`'s table format - kept here as supporting evidence for "why these 10."
 
 **Florin Tatulea** — GTM Engineer in Residence at ZoomInfo; formerly Head of Sales Development at Common Room (4x'd ARR, 20x'd outbound pipeline); first sales hire at Loopio (65x revenue growth, 9-figure exit); 88K+ followers across LinkedIn/Substack/X.
-
+git 
 **Will Allred** — Cofounder of Lavender; builds AI coaches, agents, and APIs for outbound based on an email intelligence platform analyzing billions of sales emails from 50K+ active inboxes.
 
 **Nick Abraham** — Founder of Leadbird.io, Partner at Cleverly; operates at 2M+ cold emails and 1M+ LinkedIn DMs sent per month across 1,000+ active clients.
