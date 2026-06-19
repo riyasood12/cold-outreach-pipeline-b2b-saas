@@ -9,7 +9,7 @@ Summary: Introduces the 3x3 Email Rule : no longer than 3 bodies of text, 3 line
 
 Key Takeaway: Cold email brevity is a structural discipline in which every section has a job, and the CTA should invite interest, not demand a meeting.
 
-Category: Cold Email Copywriting YouTube
+Category: Cold Email, Copywriting YouTube
 
 ---
 

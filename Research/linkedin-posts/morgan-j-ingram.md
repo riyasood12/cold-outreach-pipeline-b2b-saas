@@ -30,9 +30,9 @@ Date: ~January–February 2024
 
 URL: https://www.linkedin.com/posts/morganjingramamp_sales-video-prospecting-activity-7199146268957245440-0bP9
 
-Summary: Post on video prospecting as a differentiated outbound channel — frames video messages and LinkedIn clips as a pattern interrupt when AI-generated text outreach has made inboxes visually and tonally homogeneous. (Full content not returned by public index — URL captured from search.)
+Summary: Morgan argues personalized video is one of the highest-leverage prospecting tactics most reps still avoid because it requires visible effort. He frames it as a "game changer" specifically when paired with personalized email outreach in the same week — recommending five personalized emails and five personalized videos to target contacts as a weekly cadence, rather than treating video as a one-off tactic.
 
-Key Takeaway: Video and voice-based prospecting earn disproportionate attention because they require effort automation cannot replicate at scale.
+Key Takeaway: Video prospecting works best as a paired weekly habit alongside personalized email, not as an occasional novelty touch — the combination, done consistently, is what moves the meeting-booking needle.
 
 Category: LinkedIn Outreach / Video Prospecting
 
@@ -50,15 +50,15 @@ Category: Outbound Strategy / AI in Outbound / Cold Email LinkedIn
 
 ## Post 5
 
-Date: ~2025 (exact date requires manual retrieval)
+Date: ~2026 (recent post, exact publish date not captured — see note below)
 
-URL: https://www.linkedin.com/in/morganjingramamp/ (retrieve direct post URL from recent-activity feed)
+URL: https://www.linkedin.com/in/morganjingramamp/
 
-Summary: Argues that within 8–12 months every sales team will have AI agents surfacing the same account insights at the click of a button, making research a commodity — what will not be commoditized is critical thinking: understanding how a business makes money, why this specific person would respond, and connecting AI output to buyer context without just reading a script.
+Summary: Morgan argues that within 8–12 months every sales team will have AI agents surfacing the same account research at the click of a button, making research itself a commodity. He calls this the "MIC method" — what won't be commoditized is connecting AI-generated insights to actual business outcomes and reading the room consistently, not just when quota is due. He cites specific reps (Jordan Lucas breaking into enterprise accounts, Sierra Arnold scheduling 17 meetings/month off social selling, Trayco Ross booking 19 meetings off 288 messages at a 20% reply rate) as evidence that the differentiator is now SDRs who can use AI output without just copy-pasting it into outreach without understanding context.
 
-Key Takeaway: AI research is being commoditized faster than teams realize — the durable SDR skill is interpreting and connecting those insights to a buyer's world, not just generating them.
+Key Takeaway: AI research is becoming table stakes faster than most teams realize — the durable skill is connecting AI-surfaced insights to real business outcomes, not generating the insights themselves.
 
-Category: SDR Workflow / AI in Outbound / Outbound Strategy LinkedIn
+Category: SDR Workflow / AI in Outbound / Outbound Strategy
 
 ## Cross-Cutting Themes
 
