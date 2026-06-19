@@ -1,36 +1,19 @@
-# Cold Outreach Pipeline for B2B SaaS
+# Cold Outreach Pipeline for B2B SaaS - Research Project
 
-## Research Objective
+## What This Is
 
-- This repository contains research on how leading B2B SaaS practitioners design, execute, and scale cold outreach systems.
+This repository documents how 10 practicing B2B SaaS outbound experts actually build, run,and scale cold outreach systems based on their own LinkedIn posts, YouTube appearances, and podcast transcripts, not secondary summaries or generic "best practices" articles.
 
-## Research Question
+## Why These 10 Experts
 
-- How do top B2B SaaS practitioners build successful cold outreach pipelines?
+I selected practitioners over commentators - people who run outbound for a living, build the tools, or operate agencies sending real volume across three pillars:
 
-## Research Framework
+| Pillar | Experts | Why |
+|---|---|---|
+| **Technical Infrastructure** | Eric Nowoslawski, Nick Abraham, Jeremy Chatelaine | Run agencies/tools sending millions of emails/month; speak from deliverability and infrastructure failure data, not theory |
+| **Behavioral Psychology** | Josh Braun, Will Allred, Florin Tatulea | Study what makes messaging land - Will from Lavender's dataset of billions of sales emails, Josh from applied curiosity/psychology frameworks |
+| **Operational Execution** | Nick Cegelski, Armand Farrokh, Jason Bay, Morgan J Ingram | Built and scaled real SDR/AE outbound motions, not just consulted on them |
 
-### Technical Infrastructure
-- Deliverability
-- Data enrichment
-- Automation
+Full rationale for each is in [`research/sources.md`](research/sources.md).
 
-### Behavioral Psychology
-- Messaging
-- Copywriting
-- Personalization
-
-### Operational Execution
-- Cold calling
-- SDR workflows
-- Scaling outbound
-
-## Repository Structure
-
-research/
-scripts/
-data/
-
-## Status
-
-Project initialized.
+## What's In This Repo
