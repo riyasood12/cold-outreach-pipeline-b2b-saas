@@ -188,17 +188,17 @@ Eight major themes were synthesized and documented in `research/insights.md`.
 
 ## Status
 
-✅ Expert selection completed
+- Expert selection completed
 
-✅ LinkedIn research completed
+- LinkedIn research completed
 
-✅ YouTube and podcast research completed
+- YouTube and podcast research completed
 
-✅ Transcript collection implemented using `youtube-transcript-api`
+- Transcript collection implemented using `youtube-transcript-api`
 
-✅ Research synthesis completed
+- Research synthesis completed
 
-✅ Repository organization completed
+- Repository organization completed
 
 This repository serves as a research foundation for building a practical B2B SaaS cold outreach playbook.
 
