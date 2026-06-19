@@ -1,6 +1,7 @@
 # Morgan J Ingram
 
 ## Post 1
+
 Date: November 22, 2022
 
 URL: https://www.linkedin.com/posts/morganjingram_sales-coldcalling-activity-7000821192991412224-oDMe
@@ -12,6 +13,7 @@ Key Takeaway: Structuring a voice note around a named trigger converts it from a
 Category: LinkedIn Outreach / Prospecting Messaging LinkedIn
 
 ## Post 2
+
 Date: February 21, 2023
 
 URL: https://lk.linkedin.com/posts/morganjingram_this-may-be-controversial-but-here-is-my-activity-7033877175250423808-loNB
@@ -23,6 +25,7 @@ Key Takeaway: AI is a copy iteration tool, not a prospecting strategy — reps w
 Category: Cold Email / AI in Outbound / SDR Workflow LinkedIn
 
 ## Post 3
+
 Date: ~January–February 2024
 
 URL: https://www.linkedin.com/posts/morganjingramamp_sales-video-prospecting-activity-7199146268957245440-0bP9
@@ -33,10 +36,8 @@ Key Takeaway: Video and voice-based prospecting earn disproportionate attention 
 
 Category: LinkedIn Outreach / Video Prospecting
 
-Manual retrieval needed: visit URL while logged into LinkedIn for full text.
-
-
 ## Post 4
+
 Date: ~May 2025
 
 URL: https://www.linkedin.com/posts/morganjingramamp_b2b-outbound-is-starting-to-lose-its-humanity-activity-7417198989244145667-3eAY
@@ -47,10 +48,8 @@ Key Takeaway: AI saturation has inverted the value equation — human relevance 
 
 Category: Outbound Strategy / AI in Outbound / Cold Email LinkedIn
 
-Manual retrieval needed: content confirmed from profile page; full post text requires logged-in visit.
-
-
 ## Post 5
+
 Date: ~2025 (exact date requires manual retrieval)
 
 URL: https://www.linkedin.com/in/morganjingramamp/ (retrieve direct post URL from recent-activity feed)
@@ -61,9 +60,6 @@ Key Takeaway: AI research is being commoditized faster than teams realize — th
 
 Category: SDR Workflow / AI in Outbound / Outbound Strategy LinkedIn
 
-Manual retrieval needed: search recent-activity feed for the "research is about to be commoditized" post.
-
-
 ## Cross-Cutting Themes
 
 Human signal in an AI-saturated inbox — Posts 2, 4, and 5 all converge on the same 2025 thesis: AI has made generic outbound cheap and ubiquitous, which means genuine relevance is now the actual competitive moat, not tooling or volume
@@ -72,8 +68,8 @@ Trigger-first, then message — Posts 1, 3, and 5 all share the same underlying 
 
 Format innovation as a short-term moat — LinkedIn voice notes, video messages, and frictionless CTAs share the pattern of using a channel the majority of reps haven't yet adopted — Morgan consistently spots and documents these windows early, from active use
 
-
 ## Metadata
+
 research_subject: Morgan J Ingram
 
 author_profile: https://www.linkedin.com/in/morganjingramamp
